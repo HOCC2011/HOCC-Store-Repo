@@ -2,12 +2,15 @@
 <List>
     <App>
         <Name>Forget</Name>
+        <PackageName>com.hocc.fun.forget</PackageName>
         <Version>1.6.5</Version>
         <SysVersion>29</SysVersion>
     </App>
     <App>
         <Name>Card Reader</Name>
+        <PackageName>com.hocc.tools.universalcardreader</PackageName>
         <Version>2.5</Version>
         <SysVersion>29</SysVersion>
     </App>
 </List>
+

@@ -3,6 +3,11 @@
     <App>
         <Name>Forget</Name>
         <Version>1.6.5</Version>
-        <SysVersion>10</SysVersion>
+        <SysVersion>29</SysVersion>
+    </App>
+    <App>
+        <Name>Card Reader</Name>
+        <Version>2.5</Version>
+        <SysVersion>29</SysVersion>
     </App>
 </List>

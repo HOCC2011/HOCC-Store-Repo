@@ -2,7 +2,7 @@
 <List>
     <App>
         <Name>Forget</Name>
-        <PackageName>com.hocc.fun.forget</PackageName>
+        <PackageName>hocc.fun.forget</PackageName>
         <Version>1.6.5</Version>
         <SysVersion>29</SysVersion>
     </App>
@@ -13,4 +13,5 @@
         <SysVersion>29</SysVersion>
     </App>
 </List>
+
 

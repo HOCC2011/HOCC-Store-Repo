@@ -9,10 +9,11 @@
     <App>
         <Name>Card Reader</Name>
         <PackageName>com.hocc.tools.universalcardreader</PackageName>
-        <Version>2.5</Version>
+        <Version>v2.5</Version>
         <SysVersion>29</SysVersion>
     </App>
 </List>
+
 
 
 

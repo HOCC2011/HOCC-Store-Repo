@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Repository>
     <RepoName>HOCC</RepoName>
-    <List>
-        <App>
-            <Name>Forget</Name>
-            <PackageName>hocc.fun.forget</PackageName>
-            <Version>1.6.5(3)</Version>
-            <SysVersion>29</SysVersion>
-            <Developer>HOCC</Developer>
-        </App>
-        <App>
-            <Name>Card Reader</Name>
-            <PackageName>com.hocc.tools.universalcardreader</PackageName>
-            <Version>v2.5</Version>
-            <SysVersion>29</SysVersion>
-            <Developer>HOCC</Developer>
-        </App>
-    </List>
+    <App>
+        <Name>Forget</Name>
+        <PackageName>hocc.fun.forget</PackageName>
+        <Version>1.6.5(3)</Version>      
+        <SysVersion>29</SysVersion>
+        <Developer>HOCC</Developer>
+    </App>
+    <App>
+        <Name>Card Reader</Name>
+        <PackageName>com.hocc.tools.universalcardreader</PackageName>
+        <Version>v2.5</Version>      
+        <SysVersion>29</SysVersion>
+        <Developer>HOCC</Developer>
+     </App>
 </Repository>
+

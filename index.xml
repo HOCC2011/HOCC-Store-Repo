@@ -18,10 +18,11 @@
     <App>
         <Name>Store</Name>
         <PackageName>com.hocc.fun.store</PackageName>
-        <Version>1.5</Version>      
+        <Version>1.5.1</Version>      
         <SysVersion>29</SysVersion>
         <Developer>HOCC</Developer>
     </App>
 </Repository>
+
 
 

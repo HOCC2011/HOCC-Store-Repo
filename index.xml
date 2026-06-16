@@ -11,7 +11,7 @@
     <App>
         <Name>Card Reader</Name>
         <PackageName>com.hocc.tools.universalcardreader</PackageName>
-        <Version>v2.5</Version>      
+        <Version>v2.6</Version>      
         <SysVersion>29</SysVersion>
         <Developer>HOCC</Developer>
     </App>
